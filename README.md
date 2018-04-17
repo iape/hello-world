@@ -4,3 +4,6 @@ hello gays, I am a new friend of GitHub. It is the first time that I use this pl
 
 # hello again
 hello,github, I ,itape, am back! I can use it skillfully.
+
+# test github without tutorial
+go through tutorial by self
